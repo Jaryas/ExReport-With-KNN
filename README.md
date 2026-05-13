@@ -1,21 +1,21 @@
 **ICReport Full - Flutter (Project ZIP)**
 Isi project:
 
-Login (SQLite) - default user: admin / admin123
-Scan barcode (mobile_scanner)
-Input barang (manual or via scan)
-List barang + filter (All / Near / Expired) + sorting
-Export to Excel (.xlsx)
-In-app notification banner for near/expired
+1. Login (SQLite) - default user: admin / admin123
+2. Scan barcode (mobile_scanner)
+3. Input barang (manual or via scan)
+4. List barang + filter (All / Near / Expired) + sorting
+5. Export to Excel (.xlsx)
+6. In-app notification banner for near/expired
 
 **Cara menjalankan (Android Studio)**
 
-Ekstrak icreport_full.zip
-Buka folder proyek di Android Studio (Open)
-Jalankan flutter pub get (Android Studio biasanya otomatis)
-Jalankan emulator Android / hubungkan device
-Tekan Run ▶ atau flutter run
-Login: username admin, password admin123
+1. Ekstrak icreport_full.zip
+2. Buka folder proyek di Android Studio (Open)
+3. Jalankan flutter pub get (Android Studio biasanya otomatis)
+4. Jalankan emulator Android / hubungkan device
+5. Tekan Run ▶ atau flutter run
+6. Login: username admin, password admin123
 
 **Catatan permission (Android)**
 
